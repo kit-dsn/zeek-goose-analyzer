@@ -1,0 +1,6 @@
+[package]
+script_dir = scripts/PA/goose
+build_command = ./configure && make
+test_command = cd tests && btest
+depends =
+  zeek >=4.0.0

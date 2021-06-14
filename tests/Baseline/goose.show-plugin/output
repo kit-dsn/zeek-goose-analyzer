@@ -1,0 +1,9 @@
+PA::GOOSE - A GOOSE analyzer (dynamic, version)
+    [Packet Analyzer] GOOSE (ANALYZER_GOOSE)
+    [Event] goose_message
+    [Type] GOOSE::PacketInfo
+    [Type] GOOSE::PDU
+    [Type] GOOSE::UTCTime
+    [Type] GOOSE::Data
+    [Type] GOOSE::SequenceOfData
+
